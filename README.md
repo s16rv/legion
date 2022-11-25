@@ -20,7 +20,6 @@ s16d init $MONIKER
 ```
  
  
- 
 ## Launch with genesis file or run as standalone chain
 
 To launch as a consumer chain, download and save shared genesis file to `~/.s16/config/genesis.json`. Additionally add peering information (`persistent_peers` or `seeds`) to `~/.s16/config/config.toml`
