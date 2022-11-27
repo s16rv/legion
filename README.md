@@ -18,6 +18,7 @@ Come up with a moniker for your node, then run:
 ```
 s16d init $MONIKER
 ```
+
  
  
 ## Launch with genesis file or run as standalone chain
